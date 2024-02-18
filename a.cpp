@@ -8,5 +8,5 @@ int main()
     cin>>a;
     cin>>b;
     sum=a+b;
-    cout<<"Sum="<<sum;
+    cout<<"the Sum is="<<sum;
 }
